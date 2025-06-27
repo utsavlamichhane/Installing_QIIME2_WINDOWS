@@ -132,11 +132,17 @@ This should take a while.
 
 # Step 9
 
+Once the **Step 8** concludes **QIIME2** is installed.
 
+So just to confirm, run the followin code:
 
+```
+conda deactivate
+conda activate qiime2-amplicon-2025.4
+qiime info
+```
 
-
-
+If you see no error (red lines in your Terminal) **Congratulations you have QIIME2.**
 
 
 
