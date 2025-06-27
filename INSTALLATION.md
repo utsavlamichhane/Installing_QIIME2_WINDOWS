@@ -53,4 +53,11 @@ Close everything and **Restart** the computer.
 
 # Step 1 
 
-Open Ubuntu
+**Open Ubuntu**
+
+Click on the **Windows** logo. You should see an icon for **Ubuntu** ![image](https://github.com/user-attachments/assets/fa4303e0-0cd5-4eaf-a627-e35a8b53ec05)
+
+
+
+
+
