@@ -22,4 +22,35 @@ Install wsl using the following command in your **Command Prompt**
 wsl --install
 ```
 
+This command may take up to 10 minutes.
 
+Again, system might ask you Yes/No or even your Password (PC password).
+
+Go with **Yes** or provide the password. 
+
+# Step 3
+
+After the code in the **Step 2** concludes. 
+
+Close the **Command Prompt** and **Restart** the computer.
+
+# Step 4 
+
+After the restart, the prompt will ask to create a new linux user.
+
+So, you have to provide a new **username** as well as **password**
+
+The **password** should be entered twice to confirm.
+
+This will be your **username** and **password** for linux (ubuntu). 
+
+# Step 5 
+
+Close everything and **Restart** the computer.
+
+
+# B. Installing QIIME2
+
+# Step 1 
+
+Open Ubuntu
