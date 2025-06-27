@@ -97,29 +97,40 @@ source ~/miniconda3/bin/activate
 
 # Step 6
 
+Initialize the conda using the following code:
+
+```
+conda init --all
+```
+
+Close the terminal after the initialization concludes.
+
+# Step 7
+
+Open the terminal and update the conda using the following code:
+
+```
+conda update conda
+```
+
+System might ask you Yes/No.
+
+Go with **Yes** by typing y and enter. 
 
 
+# Step 8
 
+Create a conda environment using the following code:
 
+```
+conda env create \
+  --name qiime2-amplicon-2025.4 \
+  --file https://raw.githubusercontent.com/qiime2/distributions/refs/heads/dev/2025.4/amplicon/released/qiime2-amplicon-ubuntu-latest-conda.yml
+```
 
+This should take a while. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Step 9
 
 
 
