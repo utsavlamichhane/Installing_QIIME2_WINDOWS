@@ -1,4 +1,4 @@
-# A. Installing Linux in Windows
+![image](https://github.com/user-attachments/assets/684b9301-fdd2-418f-a577-43d64562ce37)![image](https://github.com/user-attachments/assets/b947ae36-836b-4666-b45d-ddea75c04a7e)# A. Installing Linux in Windows
 
 For windows, we need to install Linux in your windows computer. And then install QIIME2 in that Linux.
 We will install Linux with *Windows Subsystem for Linux*
@@ -56,6 +56,80 @@ Close everything and **Restart** the computer.
 **Open Ubuntu**
 
 Click on the **Windows** logo. You should see an icon for **Ubuntu** ![image](https://github.com/user-attachments/assets/fa4303e0-0cd5-4eaf-a627-e35a8b53ec05)
+
+This will open Ubuntu terminal.
+
+# Step 2 
+
+Create a miniconda directory and download the script (.sh) file in that directrory. To do so use the following two codes in your Ubuntu terminal.
+
+```
+mkdir -p ~/miniconda3
+```
+
+```
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
+```
+
+# Step 3 
+
+Run the downloaded script using the following code:
+
+```
+bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
+```
+
+# Step 4
+
+Remove the script file after the run using the following code:
+
+```
+rm ~/miniconda3/miniconda.sh
+```
+
+# Step 5
+
+Refresh the terminal using the following code:
+
+```
+source ~/miniconda3/bin/activate
+```
+
+# Step 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
