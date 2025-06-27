@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/684b9301-fdd2-418f-a577-43d64562ce37)![image](https://github.com/user-attachments/assets/b947ae36-836b-4666-b45d-ddea75c04a7e)# A. Installing Linux in Windows
+# A. Installing Linux in Windows
 
 For windows, we need to install Linux in your windows computer. And then install QIIME2 in that Linux.
 We will install Linux with *Windows Subsystem for Linux*
