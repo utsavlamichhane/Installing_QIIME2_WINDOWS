@@ -1,7 +1,7 @@
 
-# Installing QIIME 2 on macOS Intel Chips
+# Installing QIIME 2 on windows
 
-Installing QIIME 2 on Intel-based Macs.
+
 
 # Installation
 
@@ -10,7 +10,7 @@ All detailed, step-by-step instructions are available in INSTALLATION.md.
 
 # Quick Start
 
-Once installation is complete, run:
+Once installation is complete, run on the ubuntu terminal (not windows one ):
 ```
 conda activate qiime2-2025.4
 qiime --help
